@@ -16,7 +16,7 @@ li {
 }
 
 #loginPage {
-  display: none;
+  display: flex;
   background-color: #fff;
 }
 #nameInput {
@@ -31,7 +31,7 @@ li {
 }
 
 #chatPage {
-  display: flex;
+  display: none;
 }
 
 .chatArea {
